@@ -12,7 +12,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "preinstall": "./preinstall.sh",
+    "postinstall": "./postinstall.sh"
   },
   "author": "",
   "license": "ISC",
