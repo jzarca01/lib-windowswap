@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "castv2-client": "^1.2.0",
     "mdns": "^2.5.1"
   },
