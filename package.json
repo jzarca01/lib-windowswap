@@ -1,19 +1,18 @@
 {
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.27.2",
     "castv2-client": "^1.2.0",
-    "mdns": "^2.5.1"
+    "mdns": "^2.7.2"
   },
-  "name": "assistant-windowswap",
-  "version": "1.0.0",
+  "name": "lib-windowswap",
+  "version": "2.0.0",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "devDependencies": {},
   "scripts": {
-    "preinstall": "./preinstall.sh",
-    "postinstall": "./postinstall.sh"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
